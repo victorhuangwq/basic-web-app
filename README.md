@@ -1,5 +1,7 @@
 ## Getting Started
 
+Small change
+
 First install the app:
 ```bash
 npm install
